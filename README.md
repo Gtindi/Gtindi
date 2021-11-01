@@ -3,7 +3,7 @@
 
 
 <ul>
-  <li>Hi, I'm a Software Engineer looking to learn more and share my skills in this industry</li>
+  <li>Hi, I'm a Software Engineer looking to learn more and share my skills in the industry</li>
 </ul>
 
 ## Connect with me :)
