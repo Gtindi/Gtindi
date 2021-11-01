@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://wa.link/4r2md3">
-  <img  alt="Gabriel-Whatsapp" height="30" width="40" src="https://img.icons8.com/office/16/000000/whatsapp--v3.png" style="max-width:100%;">
+  <img  alt="Gabriel-Whatsapp" height="30" width="40" src="https://img.icons8.com/officexs/16/000000/whatsapp.png" style="max-width:100%;">
 </a>
 <br />
 
