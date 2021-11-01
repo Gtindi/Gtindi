@@ -18,6 +18,9 @@
   <img align="center" alt="Gabriel-Instagram" height="30" width="40" src="https://img.icons8.com/material-two-tone/24/000000/instagram-new.png" style="max-width:100%;">
 </a>
 
+<a href="https://twitter.com/GabrielTindi">
+  <img align="center" alt="Gabriel-Instagram" height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"style="max-width:100%;">
+</a>
 <br />
 
 ## My Skills 
