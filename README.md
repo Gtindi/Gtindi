@@ -15,7 +15,7 @@
   </br>
   
 <a href="https://www.instagram.com/_tindi._/">
-  <img align="center" alt="Gabriel-Instagram" height="30" width="40" src="https://img.icons8.com/office/16/000000/instagram-new.png" style="max-width:100%;">
+  <img align="center" alt="Gabriel-Instagram" height="30" width="40" src="https://img.icons8.com/material-two-tone/24/000000/instagram-new.png" style="max-width:100%;">
 </a>
 
 <br />
