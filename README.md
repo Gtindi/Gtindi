@@ -7,11 +7,10 @@
 </ul>
 
 ## Connect with me :)
-
+<br/>
 
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
   <img aling="center" alt="Gabriel-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
-  
   </a>
   
 <a href="https://www.instagram.com/_tindi._/">
