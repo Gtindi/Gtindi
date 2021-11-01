@@ -3,10 +3,10 @@
 
 
 <ul>
-  <li>Hi, I'm a Software Engineer looking to learn more and share my skills in the industry</li>
+  <li>I'm a Software Engineer looking to learn more and share my skills in the industry</li>
 </ul>
 
-## Connect with me :)
+## Connect with me &#128231;
 <br/>
 
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
@@ -56,7 +56,7 @@
   <div style="display: inline_block"><br>
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=dark)
+![Anurag's GitHub stats]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
 
