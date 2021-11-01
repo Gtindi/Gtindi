@@ -3,7 +3,7 @@
 
 
 <ul>
-  <li>Hi, Gabriel Tindi, programmer looking to learn more and more in the programming market.
+  <li>Hi, I'm a Software Engineer looking to learn more and share my skills in this industry</li>
 </ul>
 
 ## Connect with me :)
@@ -31,7 +31,7 @@
 <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
 <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%;">
 <img align="center" alt="Django" height="30" width="40" src="https://img.icons8.com/color/48/000000/django.png" style="max-width:100%;">
-<img align="center" alt="Flask" height="30" width="40" src="https://img.icons8.com/color/48/000000/flask.png" style="max-width:100%;">
+<img align="center" alt="Flask" height="30" width="40" src="https://img.icons8.com/ios/50/000000/flask.png" style="max-width:100%;">
 <img align="center" alt="Android Studio" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-studio--v2.png" style="max-width:100%;">
 <img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
 <img align="center" alt="VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width:100%;">
