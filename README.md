@@ -18,7 +18,11 @@
 </a>
 
 <a href="https://twitter.com/GabrielTindi">
-  <img  alt="Gabriel-Instagram" height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"style="max-width:100%;">
+  <img  alt="Gabriel-Twitter" height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"style="max-width:100%;">
+</a>
+
+<a href="https://wa.link/4r2md3">
+  <img  alt="Gabriel-Whatsapp" height="30" width="40" src="https://img.icons8.com/office/16/000000/whatsapp--v3.png" style="max-width:100%;">
 </a>
 <br />
 
