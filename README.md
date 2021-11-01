@@ -6,7 +6,7 @@
   <li>I'm a Software Engineer looking to learn more and share my skills in the industry</li>
 </ul>
 
-## Connect with me &#128231;
+## Connect with me &#57907;
 <br/>
 
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
