@@ -2,7 +2,7 @@
 
 ## About :
 <br>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">via GIPHY</a></p>
+<img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 
 -  Software Engineering student at KCA University.
 -  Mastering the skills of Software Craftmanship.
@@ -11,14 +11,11 @@
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
+<iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href=>via GIPHY</a></p>
 
 
 ## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/carlos-rafael-1903771b4)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/carloszoft)
-
-<br />
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
   <img alt="Gabriel-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
