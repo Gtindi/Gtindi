@@ -1,14 +1,24 @@
-### Hello there,
-# I'm Gabriel Tindi 👋
+<h1 style="color:#FF1493">Hello there,<br/> I'm Gabriel Tindi !</h1>
+
+## About :
+<br>
+<img align="right" alt="GIF" height="120px" src=""https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX"/>
+
+-  Software Engineering student at KCA University.
+-  Mastering the skills of Software Craftmanship.
+-  Full-stack Web-developer and Network Architecture.
+-  I’m currently learning about Artificial Intelligence, Ethical Hacking and Data Science. 
+-  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
-<ul>
-  <li>I'm a Software Engineer looking to learn more.</li>
-</ul>
 
-## Connect with me ⬇️
-<br/>
 
+## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/carlos-rafael-1903771b4)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/carloszoft)
+
+<br />
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
   <img alt="Gabriel-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
   </a>
