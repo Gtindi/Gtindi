@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 
 -  Software Engineering student at KCA University.
--  Mastering the skill of Agile Software Craftmanship.
+-  Mastering the skills of Agile Software Craftmanship.
 -  Full-stack Web-developer and Network Architecture.
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
