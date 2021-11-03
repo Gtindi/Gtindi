@@ -2,7 +2,7 @@
 
 ## About :
 <br>
-<img align="right" alt="GIF" height="120px" src=""https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX"/>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/xbox-demon-slayer-kimetsu-no-yaiba-xbox-series-x-q217GUnfKAmJlFcjBX">via GIPHY</a></p>
 
 -  Software Engineering student at KCA University.
 -  Mastering the skills of Software Craftmanship.
