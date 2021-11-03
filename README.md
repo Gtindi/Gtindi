@@ -11,7 +11,7 @@
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
-<iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href=>via GIPHY</a></p>
+[(<iframe src="https://giphy.com/embed/q217GUnfKAmJlFcjBX" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href=>via GIPHY</a></p>)]
 
 
 ## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
