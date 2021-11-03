@@ -28,6 +28,7 @@
 
 ## My Skills 
 <div style="display: inline_block"><br>
+<img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="max-width:100%;">
 <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
 <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
 <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
