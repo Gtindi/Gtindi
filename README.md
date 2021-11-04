@@ -24,6 +24,10 @@
   <img  alt="Gabriel-Twitter" height="30" width="40" src="https://img.icons8.com/color/48/000000/twitter--v1.png"style="max-width:100%;">
 </a>
 
+<a href="https://msng.link/o/?Tindi254=tg">
+  <img  alt="Gabriel-Telegram" height="30" width="40" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" style="max-width:100%;">
+</a>
+
 <a href="https://wa.link/4r2md3">
   <img  alt="Gabriel-Whatsapp" height="30" width="40" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-whatsapp-social-media-justicon-lineal-color-justicon.png" style="max-width:100%;">
 </a>
