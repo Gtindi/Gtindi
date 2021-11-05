@@ -1,5 +1,5 @@
 <h1 style="color:#FF1493">Hello there,<br/> I'm Gabriel Tindi !</h1>
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 ## About :
 <br>
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
@@ -60,6 +60,7 @@
 
 ## My Stats
   <div style="display: inline_block"><br>
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=dark)
