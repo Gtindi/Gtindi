@@ -1,5 +1,6 @@
 <h1 style="color:#FF1493">Hello there,<br/> I'm Gabriel Tindi !</h1>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
+
 ## About :
 <br>
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
