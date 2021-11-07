@@ -7,7 +7,7 @@
 
 -  Software Engineering student at KCA University.
 -  Mastering the skills of Agile Software Craftmanship.
--  Full-stack Web-developer, Data Analyst and Network Architecture.
+-  Full-stack Web-developer and Network Architecture.
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
