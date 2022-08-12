@@ -1,3 +1,4 @@
+[![MasterHead](https://as2.ftcdn.net/v2/jpg/02/78/37/47/1000_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa.jpg)](https://rishavchanda.io)
 <h1 style="color:#FF1493">Hello there,<br/> I'm Gabriel Tindi !</h1>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
