@@ -1,4 +1,4 @@
-[![MasterHead](https://edgy.app/celebrate-international-programmers-day-with-languages)](https://rishavchanda.io)
+[![MasterHead](https://edgy.app/wp-content/uploads/2018/09/programming-day-FI.jpg)](https://rishavchanda.io)
 <h1 style="color:#FF1493">Hello there,<br/> I'm Gabriel Tindi !</h1>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
