@@ -46,14 +46,6 @@
 ## My Stats
 <div style="display: inline_block"><br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-## #365dayschallenge
-| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
-| --- | --- |
-<!--github stats-->
-
-## #100DaysOfCode
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=Gtindi&column=7"/>
-<!--Trophies-->
 
 [![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
@@ -68,7 +60,16 @@
 
 </div>
 <br />
+## #365dayschallenge
+  
+| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
+| --- | --- |
+<!--github stats-->
 
+## #100DaysOfCode
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=Gtindi&column=7"/>
+<!--Trophies-->
+<br /><br/>
 
 ## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
