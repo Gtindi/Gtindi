@@ -43,34 +43,6 @@
 <br />
 <br />
 
-## My Stats
-<div style="display: inline_block"><br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-[![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
-[![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
-[![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
-[![social-life:active](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
-<!-- <h4>Check out <a href="https://drogatechnology.web.app/" target="_blank">My PORTFOLIO</a></h4>
-<h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4> -->
-  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
-
-</div>
-<br />
-## #365dayschallenge
-  
-| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
-| --- | --- |
-<!--github stats-->
-
-## #100DaysOfCode
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=Gtindi&column=7"/>
-<!--Trophies-->
-<br /><br/>
-
 ## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
   <img alt="Gabriel-Linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
@@ -89,3 +61,29 @@
 </a>
 
 <br />
+
+## My Stats
+<div style="display: inline_block"><br>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+[![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
+[![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
+[![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
+[![social-life:active](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
+<!-- <h4>Check out <a href="https://drogatechnology.web.app/" target="_blank">My PORTFOLIO</a></h4>
+<h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4> -->
+  
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
+
+</div>
+
+| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
+| --- | --- |
+<!--github stats-->
+
+## #100DaysOfCode
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=Gtindi&column=7"/>
+<!--Trophies-->
+<br /><br/>
