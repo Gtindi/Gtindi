@@ -65,7 +65,7 @@
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=tokyonight)](https://github.com/felipeholanda2077/github-readme-stats)
 
 </div>
 <br/>
