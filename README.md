@@ -14,8 +14,6 @@
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
-
-
 ## My Skills 
 <div style="display: inline_block"><br>
 <img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="max-width:100%;">
@@ -36,11 +34,7 @@
 <img align="center" alt="VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width:100%;">
 <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
 <img align="center" alt="IBM" height="30" width="40" src="https://img.icons8.com/nolan/64/ibm.png" style="max-width:100%;">
-
-
 </div>
-
-<br />
 <br />
 
 ## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
@@ -78,6 +72,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
 
 </div>
+<br/>
 
 | ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
 | --- | --- |
