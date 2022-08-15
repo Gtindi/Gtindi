@@ -72,7 +72,6 @@
 [![social-life:active](https://img.shields.io/badge/social--life-inactive-lightgrey)](https://img.shields.io/badge/social--life-inactive-lightgrey)
 <h4>Check out <a href="https://drogatechnology.web.app/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
-
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=dark)
 
