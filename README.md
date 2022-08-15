@@ -73,7 +73,7 @@
 <h4>Check out <a href="https://drogatechnology.web.app/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=dark)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtindi&layout=compact&theme=dark)](https://github.com/felipeholanda2077/github-readme-stats)
 
@@ -81,7 +81,7 @@
 <br />
 
 ## #365dayschallenge
-| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&&show_icons=true&title_color=ffffff&icon_color=2A75CF&text_color=daf7dc&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
+| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=dark) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
 | --- | --- |
 <!--github stats-->
 
