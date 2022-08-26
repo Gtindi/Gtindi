@@ -8,7 +8,7 @@
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 -  Software Engineer student at KCA University.<br/>
 -  Mastering the skills of Agile Software Craftmanship.<br/>
--  Full-stack Web-developer, Data Analyst and Network Architecture.<br/>
+-  Full-stack Web-developer, Data Analyst, Network Architecture and Game Developer.<br/>
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
