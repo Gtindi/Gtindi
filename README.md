@@ -5,7 +5,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
 ## About :
-<br>
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
 -  Software Engineer student at KCA University.<br/>
 -  Mastering the skills of Agile Software Craftmanship.<br/>
