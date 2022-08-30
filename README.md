@@ -71,8 +71,3 @@
 | ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
 | --- | --- |
 <!--github stats-->
-
-## #100DaysOfCode
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=Gtindi&column=7"/>
-<!--Trophies-->
-<br /><br/>
