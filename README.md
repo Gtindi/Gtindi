@@ -1,4 +1,12 @@
-[![MasterHead](https://edgy.app/wp-content/uploads/2018/09/programming-day-FI.jpg)](https://rishavchanda.io)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!--   my-ticker --> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Madhav+Yadav;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
+
+
 
 <br/>
 <h1 style="color:#FF1493">Hello there,<br/>I'm Gabriel Tindi!</h1>
