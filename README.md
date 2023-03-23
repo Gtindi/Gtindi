@@ -67,11 +67,6 @@
 
 </div>
 <br/>
-
-| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
-| --- | --- |
-<!--github stats-->
-
 [![organism:human](https://img.shields.io/badge/organism-human-%238D5524)](https://img.shields.io/badge/organism-human-%238D5524)
 [![life:passing](https://img.shields.io/badge/life%20-passing-%2335B142)](https://img.shields.io/badge/life%20-passing-%2335B142)
 [![workload:99%](https://img.shields.io/badge/work--load-99%25-%23CF692A)](https://img.shields.io/badge/work--load-99%25-%23CF692A)
@@ -86,3 +81,9 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
 <br/><br/>
+
+<br/>
+
+| ![Gabriel Tindi's GitHub Stats.](https://github-readme-stats.vercel.app/api?username=Gtindi&show_icons=true&theme=tokyonight) | ![Gabriel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gtindi&theme=tokyonight) |
+| --- | --- |
+<!--github stats-->
