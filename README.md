@@ -12,28 +12,16 @@
 -  Future Goals: Contribute more to the community and learn more about new technologies that arise.
 
 
-## My Skills 
-<div style="display: inline_block"><br>
-<img align="center" alt="JavaScript" height="30" width="40" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="max-width:100%;">
-<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width:100%;">
-<img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" style="max-width:100%;">
-<img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
-<img align="center" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="max-width:100%;">
+## Technology & Tools
+![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Operating_System-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
+<br/><br/>
 
-<img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/color/48/000000/python--v2.png" style="max-width:100%;">
-<img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" style="max-width:100%;">
-<img align="center" alt="C++" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" style="max-width:100%;">
-<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="max-width:100%;">
-<img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%;">
-<img align="center" alt="Django" height="30" width="40" src="https://img.icons8.com/color/48/000000/django.png" style="max-width:100%;">
-<img align="center" alt="Flask" height="30" width="40" src="https://img.icons8.com/ios/50/000000/flask.png" style="max-width:100%;">
-<img align="center" alt="Android Studio" height="30" width="40" src="https://img.icons8.com/color/48/000000/android-studio--v2.png" style="max-width:100%;">
-<img align="center" alt="VisualStudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="max-width:100%;">
-<img align="center" alt="VisualCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="max-width:100%;">
-<img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="max-width:100%;">
-<img align="center" alt="IBM" height="30" width="40" src="https://img.icons8.com/nolan/64/ibm.png" style="max-width:100%;">
-</div>
-<br />
 
 ## Social Networks <img alt="GIF" height="50px" src="https://media.giphy.com/media/U6dDV4ZMHioLYimEFM/giphy.gif"/>
 <a href="https://www.linkedin.com/in/gabriel-tindi-447088150/">
@@ -69,16 +57,6 @@
 <br/>
 <h4>Check out <a href="https://www.gabrieltindi.buzz/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
-
-## Technology & Tools
-![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Operating_System-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&labelColor=181818&logoColor=white&color=050F2C)
-<br/><br/>
 
 
 
