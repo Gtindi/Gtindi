@@ -72,7 +72,7 @@
 
 ## Technology & Tools
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&labelColor=181818&logoColor=white&color=050F2C)
-![](https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
+![](https://img.shields.io/badge/Operating_System-Linux-informational?style=flat&logo=linux&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Web-Django-informational?style=flat&logo=django&labelColor=181818&logoColor=white&color=050F2C)
 ![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&labelColor=181818&logoColor=white&color=050F2C)
