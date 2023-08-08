@@ -3,7 +3,7 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 <!--   my-ticker --> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Jambo!+👋,+I'm+Gabriel+Tindi;+Welcome+to+my+Github+Profile!;Lets+connect!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Jambo!+I'm+Gabriel+Tindi;+Welcome+to+my+Github+Profile!;Lets+connect!;)](https://git.io/typing-svg)
 <br/>
 ## About :
 <img align="right" alt="GIF" height="120px" src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif"/>
