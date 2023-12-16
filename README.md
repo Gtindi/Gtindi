@@ -46,7 +46,7 @@
 <div style="display: inline_block"><br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h4>Check out <a href="#" target="_blank">My PORTFOLIO</a></h4>
+<h4>Check out <a href="http://gabrieltindi.mangazatravels.com/" target="_blank">My PORTFOLIO</a></h4>
 <h4><a href="https://commits.top/kenya.html">Top Kenyan Contributors</a></h4>
   
 
